@@ -1,0 +1,13 @@
+{
+  "name": "dalgosReact",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.21.0",
+    "react-native-icons": "^0.7.1",
+    "underscore": "^1.8.3"
+  }
+}
